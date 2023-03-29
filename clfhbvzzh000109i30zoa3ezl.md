@@ -1,12 +1,13 @@
 ---
 title: "what is Shell Scripting and why we use Shebang?"
 seoTitle: "what is shell scripting for DevOps and why we use Shebang?"
+seoDescription: "what is Shell Scripting and why we use Shebang?"
 datePublished: Mon Mar 20 2023 21:17:54 GMT+0000 (Coordinated Universal Time)
 cuid: clfhbvzzh000109i30zoa3ezl
 slug: what-is-shell-scripting-and-why-we-use-shebang
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679646407455/17e33531-9a80-45bd-ae13-bc687af9e347.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679347041996/a115027b-f6f6-4c58-ab89-ab877e2ae80a.jpeg
-tags: devops
+tags: devops, shell-script
 
 ---
 
