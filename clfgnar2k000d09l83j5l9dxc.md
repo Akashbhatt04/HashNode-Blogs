@@ -1,10 +1,12 @@
 ---
 title: "What is DevOps and it's Fundamentals"
+seoTitle: "What is DevOps and it's Fundamentals"
+seoDescription: "What is DevOps and it's Fundamentals"
 datePublished: Mon Mar 20 2023 09:49:32 GMT+0000 (Coordinated Universal Time)
 cuid: clfgnar2k000d09l83j5l9dxc
 slug: what-is-devops-and-its-fundamentals
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679305751544/5072352f-e761-4ffe-b78d-7a891e6a0277.png
-tags: devops
+tags: linux, docker, devops
 
 ---
 
