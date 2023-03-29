@@ -1,12 +1,14 @@
 ---
 title: "Why Linux is important in DevOps? 
 And what are the essential commands in Linux?"
+seoTitle: "Why Linux is important in DevOps? And what are the essential commands"
+seoDescription: "Why Linux is important in DevOps? And what are the essential commands in Linux?"
 datePublished: Tue Mar 21 2023 16:28:19 GMT+0000 (Coordinated Universal Time)
 cuid: clfigzfjj000609mq9srmaqpc
 slug: why-linux-is-important-in-devops-and-what-are-the-essential-commands-in-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679415906866/7d930149-41de-4700-ae52-a11734d50103.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679416046429/c5fb3f45-af8c-4d2f-8bb4-4709aa388e5c.jpeg
-tags: devops
+tags: linux, devops
 
 ---
 
