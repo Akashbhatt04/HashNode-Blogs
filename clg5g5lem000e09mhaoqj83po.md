@@ -11,7 +11,9 @@ tags: python, devops, datatypes
 
 ---
 
-Python is a high-level, interpreted programming language that is easy to learn and widely used for web development, data analysis, artificial intelligence, and scientific computing. Python supports several data types, including:
+Python is a high-level, interpreted programming language that is easy to learn and widely used for web development, data analysis, artificial intelligence, and scientific computing. Python supports several data types:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680805784443/b1797c76-9b30-4705-9e9a-22e5b65ca713.jpeg align="center")
 
 **<mark>Numbers</mark>**: Python supports integer, float, and complex numbers.
 
