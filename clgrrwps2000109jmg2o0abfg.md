@@ -1,9 +1,7 @@
 ---
 title: "Kubernetes and it's Architecture"
-seoTitle: "Kubernetes and it's Architecture
-Kubernetes and it's Architecture"
-seoDescription: "Kubernetes and it's Architecture
-Kubernetes and it's Architecture"
+seoTitle: "Kubernetes and it's Architecture"
+seoDescription: "Kubernetes and it's Architecture"
 datePublished: Sat Apr 22 2023 09:23:46 GMT+0000 (Coordinated Universal Time)
 cuid: clgrrwps2000109jmg2o0abfg
 slug: kubernetes-and-its-architecture
