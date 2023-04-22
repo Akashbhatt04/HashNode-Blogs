@@ -7,7 +7,7 @@ Kubernetes and it's Architecture"
 datePublished: Sat Apr 22 2023 09:23:46 GMT+0000 (Coordinated Universal Time)
 cuid: clgrrwps2000109jmg2o0abfg
 slug: kubernetes-and-its-architecture
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682155796741/8d13c780-edb4-408a-a444-60336b9ffee6.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682156754976/d0418013-757c-4716-9668-6d14131e5ba6.png
 tags: cloud, docker, kubernetes, devops
 
 ---
