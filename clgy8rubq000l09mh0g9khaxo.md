@@ -26,7 +26,7 @@ To create a master node and worker node of Kubernetes in AWS EC2, follow these g
     ```yaml
     sudo apt-get update 
     
-    sudo apt-get install docker.io -y 
+    sudo apt-get install docker.io -y
     ```
     
 3. **Install Kubernetes:** Now you can install Kubernetes using the official installation script. Here's how you can do it:
@@ -40,10 +40,10 @@ To create a master node and worker node of Kubernetes in AWS EC2, follow these g
     
     sudo apt-get update 
     
-    sudo apt-get install -y kubelet kubeadm kubectl 
+    sudo apt-get install -y kubelet kubeadm kubectl
     ```
     
-4. **Initialize the cluster:** After installing Kubernetes, you need to initialize the cluster using the kubeadm init command. Here's an example command:  
+4. **Initialize the cluster:** After installing Kubernetes, you need to initialize the cluster using the kubeadm init command. Here's an example command:
     
     ```yaml
     sudo kubeadm init --pod-network-cidr=192.168.0.0/16 
@@ -58,13 +58,13 @@ To create a master node and worker node of Kubernetes in AWS EC2, follow these g
     mkdir -p $HOME/.kube 
     
     sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config               
-    sudo chown $(id -u):$(id -g) $HOME/.kube/config        
+    sudo chown $(id -u):$(id -g) $HOME/.kube/config
     ```
     
-6. **Install a Pod network:** Finally, you need to install a pod network to enable communication between pods in the cluster. There are several options available, but one of the most popular choices is Flannel. Here's how you can install Flannel:
+6. **Install a Pod network:** Finally, you need to install a Pod network to enable communication between pods in the cluster. There are several options available, but one of the most popular choices is Flannel. Here's how you can install Flannel:
     
     ```yaml
-    kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml 
+    kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
     ```
     
 7. **Set up EC2 instances for the worker nodes:** Launch EC2 instances using the same security group as the master node.
