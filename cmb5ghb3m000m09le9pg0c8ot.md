@@ -6,6 +6,7 @@ datePublished: Mon May 26 2025 19:03:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmb5ghb3m000m09le9pg0c8ot
 slug: linux-server-vs-windows-server-a-complete-comparison-which-one-is-better
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748286092941/ea14ff9b-e43a-4fb0-9fbc-ec37074ba1bd.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748286531292/a62a91e3-9cfa-408b-aa7b-6875493737b6.png
 tags: linux, server, windows
 
 ---
